@@ -3,7 +3,7 @@ def reverse_each_word(sentence)
     word.reverse
   end
   reverse_each_word(sentence).join(" ")
-  
+
 
 end
 
